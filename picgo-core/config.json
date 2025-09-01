@@ -1,0 +1,21 @@
+{
+  "picBed": {
+    "current": "github",
+    "github": {
+      "repo": "Jameszych0/drawing_bed",
+      "branch": "main",
+      "token": "",
+      "path": "",
+      "customUrl": "",
+      "origin": "github"
+    }
+  },
+  "picgoPlugins": {
+    "picgo-plugin-super-prefix": true
+  },
+  "picgo-plugin-super-prefix": {
+    "prefixFormat": "YYYY/MM/",
+    "fileFormat": "YYYYMMDDHHmmss"
+  }
+}
+

@@ -1,0 +1,2 @@
+[opener]
+edit = [{ run = "neovide %*", block = true, for = "windows" }]
